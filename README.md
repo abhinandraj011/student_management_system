@@ -1,6 +1,6 @@
 # Student Management System
 
-This application provides a simple interface for managing student data. It allows users to add, edit, delete, and search for student records.
+This is a simple Student Management System application built using PyQt6 and MySQL. It allows users to manage student records including adding, editing, searching, and deleting student data.
 
 ## Prerequisites
 
